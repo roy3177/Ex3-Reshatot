@@ -1,0 +1,4 @@
+message: "I hope to get a good grade on this task, i dedicated my whole week for this project and I hope for better grade from the last project "
+maximum_msg_size: 8
+window_size: 5
+timeout: 3

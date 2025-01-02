@@ -1,0 +1,4 @@
+message: "This is a test message by my project on Reshatot tikshoret on CS "
+maximum_msg_size: 10
+window_size: 4
+timeout: 5
